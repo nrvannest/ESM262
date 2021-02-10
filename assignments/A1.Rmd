@@ -1,0 +1,21 @@
+---
+title: "Assignment 1"
+author: "Nikole Vannest"
+date: "2/8/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### **Question 1: Why am I taking this course?**
+
+I am interested in data science, and before the focus was removed from the MESM program, I planned to make that an official part of my Bren degree. This class was originally part of the data science focus curriculum, and I believe it is no longer being offered next year (right?), so I wanted to make sure I got the basics and the background necessary before diving into Advanced Data Analysis and Environmental Modelling next year. I plan to pursue my PhD after this program (I am in the '22 cohort), and would like to have a good platform of technical skills before doing so. 
+
+### **Question 2: What is my data science background?**
+
+I have a little bit of experience with R, Eclipse IDE, C++ and Java prior to entering Bren. I worked as a lab tech at UC Merced in the Plant Ecology and Evolution lab under Dr. Emily Moran. I was tasked with testing forest model Sortie-ND she and a previous post-doc had parameterized to fit the Sierra Nevadas, but needed to be hindcasted and debugged. With this project, I honed my skills in R, began to teach myself C++ using Eclipse, and spent time editing code in Java. However, all of these skills I taught myself and I would like to make sure I get a basic understanding of what exactly I was doing before I dive deeper. I'm looking forward to this class as well as your Environmental Modeling course next year!
+
+
+

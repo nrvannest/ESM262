@@ -1,0 +1,12 @@
+---
+title: "Pig Modularity Diagram and Description"
+author: "Nikole Vannest"
+date: "2/10/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+!["Pig Image Capture Diagram"](PigDiagram.png)
