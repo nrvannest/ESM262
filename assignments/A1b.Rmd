@@ -1,6 +1,5 @@
 ---
-title: "Pig Modularity Diagram and Description"
-author: "Nikole Vannest"
+author: "Nikole Vannest, Alex Milward, Shuhan Song"
 date: "2/10/2021"
 output: html_document
 ---
@@ -9,4 +8,18 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-!["Pig Image Capture Diagram"](PigDiagram.png)
+## Pig Modularity Diagram and Description
+
+
+### Authors: Alex Milward, Shuhan Song, Nikole Vannest
+
+
+
+![](PigDiagram.png)
+
+**Link to Diagram**: https://drive.google.com/file/d/1DQvgzbSWCZw0bNeFlavT-QjiKF7_kizV/view?usp=sharing
+
+**Background of Project**
+
+**Description of Diagram**
+As depicted in the image above, Time at which counting groups occurs, Photos, and Locations in green are all input data that gets compiled into Pig Dataframe in red. The Dataframe then, using a function, gets grouped in purple  and using Groups of Pigs (time dependent) and Average group which are  size as parameters, both in orange. The output, depicted in yellow, is data on the abundance and location of feral pigs from the original input.  
